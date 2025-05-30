@@ -1,0 +1,26 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# مجلدات Node
+node_modules/
+.wwebjs_cache/
+.wwebjs_auth/
+
+# ملفات البناء
+dist/
+build/
+
+# ملفات البيئة
+.env
+
+# ملفات الواتساب
+.wwebjs_auth/
+
+# ملفات المحرر
+.vscode/
+
+# لوجات
+logs/
+*.log
+npm-debug.log*
